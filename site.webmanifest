@@ -1,6 +1,6 @@
 {
-  "name":"Endorsement Web App",
-  "short_name":"Endorsement",
+  "name":"",
+  "short_name":"",
   "icons":
   [
     {
@@ -9,7 +9,8 @@
       },
       {
         "src":"assets/android-chrome-512x512.png",
-        "sizes":"512x512","type":"image/png"
+        "sizes":"512x512",
+        "type":"image/png"
         }
         ],
         "theme_color":"#ffffff",
